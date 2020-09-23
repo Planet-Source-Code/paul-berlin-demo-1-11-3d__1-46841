@@ -1,0 +1,16 @@
+3D Demo 1.11
+Paul Berlin 2002
+
+IMPORTANT INFO
+--------------
+3D Demo takes use of the fmod sound library from
+Firelight Technologies and requires the fmod.dll
+file. It can be downloaded from the fmod website
+at http://www.fmod.org or you can rename the 
+fmod.dll_ file to fmod.dll.
+
+There is also an compiled version of 3D Demo
+included, renamed to 3D.exe_ in case
+you are having problems compiling.
+
+Look in readme.html for further information.
